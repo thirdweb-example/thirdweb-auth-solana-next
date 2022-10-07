@@ -1941,8 +1941,10 @@
     "@tanstack/query-core" "4.10.3"
     use-sync-external-store "^1.2.0"
 
-"@thirdweb-dev/auth@file:.yalc/@thirdweb-dev/auth":
+"@thirdweb-dev/auth@^2.0.13":
   version "2.0.13"
+  resolved "https://registry.yarnpkg.com/@thirdweb-dev/auth/-/auth-2.0.13.tgz#228c5eb1cf1cf7b3a9f3fda30fe0fec1e323434b"
+  integrity sha512-4w3OK2If1/PEi6eRG9gC4x0X+M1CMlXjTIhqpCBxVDeSXZC5y+hRb0tpPLWWW3K2Gx22qaIMbcVZHmzNmEvwbQ==
   dependencies:
     cookie "^0.5.0"
     cookie-parser "^1.4.6"
@@ -1959,8 +1961,10 @@
   resolved "https://registry.yarnpkg.com/@thirdweb-dev/contracts/-/contracts-3.1.8-0.tgz#847af3fe9a53368e7be04b7b6e6afe076d3d1676"
   integrity sha512-PiQjdRcAUBlu3poc4g6dN9KvjTgYsA1Vi+B/IgryptCgcJeMY4cldMabKCgPaCg9dPVpUq4O+SOM00P6mBNvGw==
 
-"@thirdweb-dev/react@file:.yalc/@thirdweb-dev/react":
+"@thirdweb-dev/react@^3":
   version "3.2.1"
+  resolved "https://registry.yarnpkg.com/@thirdweb-dev/react/-/react-3.2.1.tgz#cee5ae93137f8f626d4a35a2142b0b977607017e"
+  integrity sha512-T0n0O3lJ0cr34gkxtYF8GzxzO1bmyX4VVFWBgeG2xeKvWnGU9r80gn4BHQMjPoMIju7SZwg9dVC1z+7RfkM43g==
   dependencies:
     "@emotion/react" "^11.10.0"
     "@emotion/styled" "^11.10.0"
