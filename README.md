@@ -1,6 +1,6 @@
 ## Getting Started
 
-This example demonstrates how to use thirdweb Auth with NextJS.
+This example demonstrates how to use thirdweb Auth for Solana wallets with NextJS.
 
 To run the project, first clone this repository, and then run one of the following commands to install the dependencies:
 
