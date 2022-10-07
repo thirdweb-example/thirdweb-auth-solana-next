@@ -1,0 +1,1 @@
+{"version":3,"file":"QueryParams.d.ts","sourceRoot":"../../../../../src/evm/types","sources":["QueryParams.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,QAAQ,CAAC;AAEtC;;GAEG;AACH,eAAO,MAAM,uBAAuB,MAAM,CAAC;AAE3C;;;GAGG;AACH,MAAM,WAAW,cAAc;IAC7B;;OAEG;IACH,KAAK,CAAC,EAAE,YAAY,CAAC;IACrB;;OAEG;IACH,KAAK,CAAC,EAAE,YAAY,CAAC;CACtB"}
